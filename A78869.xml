@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to the Parliament, reported to both Houses yesterday; and his power and instructions given to them, concerning the Army. With a declaration of the citizens of London touching the King to be communicated to the Lord Gen. Fairfax, and published throughout all the cities and market townes within the Kingdom of England, and Dominion of VVales. Likewise, a declaration from the Lord Generall Fairfax, to the Lord Major, aldermen, and common-councell of the said city, and his desires touching the same. As also, the Armies new propositions concerning the King, and their impeachment and desires to the House of Commons, to declare against all members in the said House, who have acted contrary to the trust reposed in them.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78869</idno><idno type="EEBO-CITATION">99864772</idno>
+  <idno type="VID">162461</idno>
+  <idno type="EEBO-PROQUEST">2240921843</idno>
+  
+            <idno type="STC">Wing C2417</idno>
+            <idno type="STC">Thomason E474_12</idno>
+            <idno type="STC">ESTC R205372</idno>
+            <idno type="PROQUEST">99864772</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864772e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E474[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to the Parliament, reported to both Houses yesterday; and his power and instructions given to them, concerning the Army. With a declaration of the citizens of London touching the King to be communicated to the Lord Gen. Fairfax, and published throughout all the cities and market townes within the Kingdom of England, and Dominion of VVales. Likewise, a declaration from the Lord Generall Fairfax, to the Lord Major, aldermen, and common-councell of the said city, and his desires touching the same. As also, the Armies new propositions concerning the King, and their impeachment and desires to the House of Commons, to declare against all members in the said House, who have acted contrary to the trust reposed in them.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Robinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162461:1"/>
+            <p>His Majesties LETTER To the <hi>PARLIAMENT, Reported to both Houses yesterday; And His power and Instruc<g ref="char:EOLhyphen"/>tions given to them, concerning the Army.</hi>
+            </p>
+            <p>WITH A Declaration of the Citizens of <hi>London</hi> touching the <hi>King</hi> To be communicated to the Lord Gen. <hi>Fairfax,</hi> and pub<g ref="char:EOLhyphen"/>lished throughout all the Cities and Market Townes within the Kingdom of <hi>ENGLAND,</hi> and Dominion of <hi>VVALES.</hi>
+            </p>
+            <p>LIKEWISE, A Declaration from the Lord Generall <hi>Fairfax,</hi> to the Lord Major, Aldermen, and Common-councell of the said City, and his Desires touching the same.</p>
+            <p>AS ALSO, The Armies new Propositions concerning the <hi>King,</hi> and their Impeachment and Desires to the House of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi> to declare against all Members in the said House, who have acted contrary to the trust reposed in them.</p>
+            <figure>
+               <figDesc>arms</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Robinson,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162461:2"/>
+            <pb n="1" facs="tcp:162461:2"/>
+            <head>NEW PROPOSITIONS FROM THE ARMY, Concerning The Kings <hi>Majesty,</hi> the setling of the Kingdom in peace, with what necessary Lawes are wanting for the ease of the Subject.</head>
+            <p>ON Wednesday last being the 29. of this in<g ref="char:EOLhyphen"/>stant, the Generall Councell of the Army met at <hi>Windsor,</hi> where they debated further the great and weighty Demands of the Army, speci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed in their late Remonstrance and Declaration; they
+<pb n="2" facs="tcp:162461:3"/> have had many serious consultations thereupon, ac<g ref="char:EOLhyphen"/>companied with prayers, for effecting of their desi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es: they are unanimous and resolute for prosecuting of these ensuing Proposals, <hi>viz.</hi> 1 <hi>That impartiall Iu<g ref="char:EOLhyphen"/>stice may be speedily executed upon the grand Incendia<g ref="char:EOLhyphen"/>ries and Authors of our late troubles.</hi> 2 <hi>That the heavy burden of free quarter may be taken off, and the Kingdom setled in peace.</hi> 3 <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what necessary Laws are wanting for ease and benefit of the Subject, may be speedily inacted established and confirmed.</hi>
+            </p>
+            <p>But by reason of the great difficulties which they are like to wade through in accomplishing the same, (occasioned by the present fears and jealousies of the Citizens of <hi>London</hi>) I shall therefore cleerly demon<g ref="char:EOLhyphen"/>strate, the reall integrity of their unspotted hearts, to<g ref="char:EOLhyphen"/>wards the said Metropolis, in the late difference be<g ref="char:EOLhyphen"/>tween <hi>Parliament, City,</hi> and <hi>Army;</hi> and instance his Ex<g ref="char:EOLhyphen"/>cellencies owne Declaration to the Lord Major and Court of Aldermen, a copy whereof followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <opener>
+                           <salute>My Lord and Gentlemen,</salute>
+                        </opener>
+                        <p>IN the carrying on of the great businesse of the <hi>Kingdom</hi> towards a generall and happy settlement, it hath been a fixed principle with Us, to make it our first endeavour with the Parliament, that all things which threaten an Ingagement of the <hi>Kingdom</hi> in a se<g ref="char:EOLhyphen"/>cond war might be removed, before we could have a confident expectation of a good issue. Wee are now come thus far, that the most materiall parti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ulars that we have in preparation to propose for the general set<g ref="char:EOLhyphen"/>tlement of the affaires of the <hi>Kingdom,</hi> have bin com<g ref="char:EOLhyphen"/>municated
+<pb facs="tcp:162461:3"/> to the Parl. containing in them things tending to a generall good, and to lay an hopeful foundation for com<g ref="char:EOLhyphen"/>mon right and freedom to the people of this Land for fu<g ref="char:EOLhyphen"/>ture, and for a lasting peace amongst us. And having thus far declared our selves with all freedom and clearnesse to you, so we desire your forwardnesse in a work so much tending to mutuall confidence, and to prevent the Designes of any who would be glad to put obstructions in the way to a hap<g ref="char:EOLhyphen"/>py conclusion, and envy nothing more then the continuance of a right understanding between you and us.</p>
+                        <closer>
+                           <signed>
+                              <hi>Signed Iohn Rushworth</hi> Secr.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Novemb.</hi> 30. 1648. Letters from the Isle of Wight say, That the Treaty is dissolved, and his <hi>Maiesty</hi> in custody, and secured by the <hi>Army:</hi> But upon the dissolving thereof, His <hi>Maiesty</hi> declared, That if no possible meanes could obtaine a peace, without the spilling of his Royall bloud, Hee was willing to sacrifice his life for the obtaining thereof, and therefore would freely and willingly resign himself up to the mercy of men, for the redemption of his poor distressed and languishing people. The said Letters further intimate, that his <hi>Majesty</hi> is used with great civility and respect by his new Guardians; which inciteth him to this demonstrati<g ref="char:EOLhyphen"/>on, That he hopeth the army will act nothing but what shall be ballanced in the skales of equity and justice.</p>
+            <p>Both houses having received a letter from Col. <hi>Hamond,</hi> touching the desires of his Excellency for him to attend at the head quarters: the house voted hereupon that Col. <hi>Ha<g ref="char:EOLhyphen"/>mond</hi> should be required to stay in the Isle of Wight and attend his charge there, till further order. They like <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vo<g ref="char:EOLhyphen"/>ted a Letter to be speedily sent to the L. Admir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to re<g ref="char:EOLhyphen"/>quire him to send some ships for the security of the Isle of <hi>Wight,</hi> with orders, that they obey the commands of Co<g ref="char:EOLhyphen"/>lonell <hi>Hamond.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Royal_proclamation">
+                        <pb n="4" facs="tcp:162461:4"/>
+                        <opener>
+                           <signed>CHARLES R.</signed>
+                        </opener>
+                        <p>As for the sale of Bishops Lands his Majesty conceives, that presidents in cases of conscience cannot satisfie, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y onely proving that such things were done, not the lawfullnesse of them, now that the to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>all alienation of Church Lands (which is the true state of the question) is Sacriledge, Divines of all sorts, and of all times (though otherwise differing in opinions) yet herein agree with His Majesties judgement; which being well weighed, hee hopes may satisfie, as to this particular: nor can the practises under the ceremonial Law, make any thing for this case, because in those dayes full compensation was alwaies intended, and ordinarily fol<g ref="char:EOLhyphen"/>lowed, though absolute necessity (and not such as may be otherways avoided) dispensed sundry times, with the imploying sacred things.</p>
+                        <p>Upon the whole matter His Majesty hopes, that his two Houses, after a serious consideration of these and His former Reason<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, will clearly discern <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hat they are not pretended, but reall points of con<g ref="char:EOLhyphen"/>science upon which he now sticks, and since by the suspension of E<g ref="char:EOLhyphen"/>piscopacy for three yeares, His Majesty hath fully for that time granted his two Houses desires, since he hath reduced the Office of a Bishop, not only to the apostolical institution (which you say is not desired to be removed) but likewise taken away all those additional powers and jurisdictions, which can make them liable to the impu<g ref="char:EOLhyphen"/>tation of those grievances and inconveniences mentioned in your paper; for (as the negative voice in Ordination) his Majesty much wonders, that any can question that power not to have been in the apostolicall Bishop, being evident 1 Tim. 5.2. Tit. 1, 5, that sole Or<g ref="char:EOLhyphen"/>dination was practised by them, since it is more then likely, His Maj. and the two Houses will agree upon a setled form of Church-gov<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>nment, long before the end of three years, whereby all those after <gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>at time will be prevented.</p>
+                        <p>
+                           <hi>These C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>cessions from his Majesty are commanded to be forth<g ref="char:EOLhyphen"/>with published to all His loyall Subjects within the Cities of</hi> London <hi>and</hi> Westminster, <hi>the Borough of</hi> Southwark, <hi>and parts adjacent.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <pb n="5" facs="tcp:162461:4"/>
+                        <head>The Charge of the Army.</head>
+                        <p n="1">1 THat there is a new designe upon the Army, sor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing us to free quarter. 2 We are sensible of the inconveniences of this late Treaty, whereby it is attempted to null all Contracts, protestations, Votes, &amp;c. 3 The exhausting the peoples treasure by many wayes, Offices and Officers, and no publike account given. 4 The King<g ref="char:EOLhyphen"/>dom left naked without any setled Government, so often cried for, 5. An inequality of punnishments, censures, and compositions, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> if we had no net made to catch the greater flies. 6. Oppression by forraign un-Englishd Laws, and Lawyers grown <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>of warms, when the best order'd Common-weals have the fewest of that brood, and who have been found by their increase a Pathagnomical Symptom of a crazy state, and Caclectick Common-wealth. 7. The slighting and contemptuous dealing with Petitioners and petitions, whereby redresse hath been sought to the peoples grievances, a practise as dangerous as unusual, in places the preservation of the whole where is in the eye and name of Trustees.</p>
+                        <p>We do therefore heartily and fully concur with our brethren in the Army, in their several just petitions presented to your Excellen<g ref="char:EOLhyphen"/>cy, calling for Justice, and just things, and the same we do with those in the City and Country, being the rather prest hereunto, because our late employment hath made some of us eye and ear witnesses of the last transactions with the grand enemy, and great abettor of <hi>Ormond</hi> in <hi>Ireland,</hi> his son in <hi>Holland,</hi> and another party that hath but a sword to draw for his destructive designs, we know, and ther<g ref="char:EOLhyphen"/>fore speak.</p>
+                        <p>Wherefore we most humbly ptay that your excellency would forthwith communicate, these our sighs and restlesse breathings of our spirits, to the Parliament, viz.</p>
+                        <p n="1">1. We cannot we, dare not make such a forfeiture of our un<g ref="char:EOLhyphen"/>parelled mercies, nor betray our dear bought freedom, as to leave our selves and the nation to the freedom of one mans will, most unhappy in the whole course of his raigne, and now dashing this Kingdom into pieces againe by his easily discerned subtilities. 2.
+<pb n="6" facs="tcp:162461:5"/> We desire all the faithfull patriots of the Commons House, may declare and protest against all men, under the same roof with them, that have so plainly betrayed the common safety, by pardoning of 37 that were appointed to death; sending some as their agents to France, &amp;c. 3 We earnestly beg to be freed from fear of confusion an Anarchy, by such a settlement as cannot be expected from 400 men so strangely chosen▪ and diversly affected: That the government of other parts may be examined, and that we may not idolize any any one creature. 4 We expect that we be not voted against if we do not deliver up prisoners in our power, upon those easie termes voted <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. We are not ignorant how it is designed that this Army must be provoked to do evill things, and by those men who are vexed we have done so many good.</p>
+                        <p>
+                           <hi>The Citizens of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ondon being much perplexed at the present distractions of this bleeding Kingdom, upon mature delibera<g ref="char:EOLhyphen"/>tion thereof, do unanimously declare, That they will (with the hazard of their lives and fortunes) unite and joyn with the Army, for composing of all differences, and executing of ju<g ref="char:EOLhyphen"/>stice upon the grand Incendiaries of this Kingdom; as also for the obtaining of all other their just and reasonable Demands; desiring that a favourable censure and construction may passe upon the person of his Royall Maiesty; which resentments are to be communicated <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o the view of the Lord Gen.</hi> Fairfax, <hi>and the Army, to be published thrrughout all Cities and Market Towns within the Kingdome of</hi> England <hi>and Dominion of</hi> Wales.</p>
+                        <p>By Letters from the Isle of Wight it is said, that the <hi>King</hi> hath gave his Royal assent to the Parl. Propositions, and doth impowr them to act and vote as they see cause with the ar<g ref="char:EOLhyphen"/>my; which letters are said to be read in both Houses, <hi>the</hi> 30 of <hi>Novemb.</hi> 1648.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
